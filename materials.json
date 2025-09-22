@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "id": 1001,
+      "name": "UPSC Starter Pack (Drive)",
+      "type": "LINK",
+      "size": "0 Bytes",
+      "uploaded": "Seed",
+      "folder": "Art & Culture",
+      "courseId": 1,
+      "url": "https://drive.google.com/",
+      "driveLink": "https://drive.google.com/",
+      "description": "Replace with your real Google Drive link",
+      "source": "DRIVE",
+      "uploadDate": "2025-01-01T00:00:00.000Z",
+      "lastModified": "2025-01-01T00:00:00.000Z"
+    }
+  ]
+}
+
+
+
+
+
